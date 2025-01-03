@@ -1,0 +1,58 @@
+# Sensitive Files
+config.php
+users.json
+projects.json
+project_temp_*.json
+
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Composer
+/vendor/
+composer.lock
+
+# PHP
+*.log
+error_log
+php_errors.log
+*.cache
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.eclipse/
+.settings/
+.buildpath
+.project
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*.temp
+*.tmp
+
+# Logs and Databases
+*.sql
+*.sqlite
+*.db
