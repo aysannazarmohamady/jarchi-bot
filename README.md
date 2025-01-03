@@ -83,9 +83,6 @@ Found a bug? Please open an issue and include:
 - Actual behavior
 - Screenshots (if applicable)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Contact
 
